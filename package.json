@@ -1,0 +1,12 @@
+{
+  "name": "redux-this",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/joetm/redux-this.git",
+  "author": "JO",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-redux": "^5.0.3"
+  }
+}
